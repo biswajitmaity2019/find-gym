@@ -767,5 +767,5 @@ export default connect(
   mapStateToProps,
   mapPropsToState,
 )(GoogleApiWrapper({
-  apiKey: "AIzaSyDAo3jDdkyjeelCuFlircOLupn9omtho-A",
+  apiKey: "",
 })(FindGym));
